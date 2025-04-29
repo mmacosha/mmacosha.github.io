@@ -4,28 +4,24 @@
 
 layout: default
 ---
-<img style="float: right;" width="50%" src="https://imgur.com/mT3wCxI.png">
+<img style="float: right;" width="50%" src="personal_photo_cropped.jpg">
 
-Hello! I am a PhD student in Reinforcement Learning, pursuing double PhD at CMAP, École Polytechnique, and LMO, Université Paris-Saclay under supervision of [Éric Moulines](https://scholar.google.com/citations?user=_XE1LvQAAAAJ) and [Gilles Stoltz](https://www.imo.universite-paris-saclay.fr/fr/perso/gilles-stoltz/). 
+Hi, I’m Kirill, a Ph.D. student in Informatics at the University of Edinburgh, where I study probabilistic modeling under the supervision of [Nikolay Malkin](https://malkin1729.github.io/). 
 
-Recently, I was a student-researcher at Google DeepMind Paris, where I studied distillation of language models; check out [this paper](https://arxiv.org/abs/2502.02671) with my results!
+I am interested in researching
+* Diffusion Models
+* Energy Based models
+* Schrödinger Bridges
 
-Additionally, I was doing research at [HDI Lab](https://cs.hse.ru/en/hdilab/) at [HSE University](https://www.hse.ru/en/). I did my Master's degree in Applied Mathematics and Computer Science on the program "Math of Machine Learning" by HSE University.
 
-My research interests include
-* Reinforcement learning theory;
-* Foundational model post-training: RLHF, Distillation;
-* Connections between RL and sampling problems;
+Previously, I worked as a research engineer at Samsung Research, focusing on the development of high-performance, GAN-based speech enhancement models.
+I completed my MSc in Applied Mathematics and Computer Science through the “Math of Machine Learning” program jointly offered by HSE University and Skoltech and wrote my Master's thesis under the supervision of [Alexander Korotin](https://akorotin.netlify.app/)
 
-Email: daniil.tiapkin@polytechnique.edu | [Google Scholar](https://scholar.google.com/citations?user=AB23PXQAAAAJ) |  [ORCID](https://orcid.org/0000-0002-8832-7926)
+Email: K.Tamogashev@sms.ed.ac.uk | [Google Scholar](https://scholar.google.com/citations?user=phcjaXEAAAAJ&hl=en) 
+
 
 # News
 
-- <span style="color:red"> &#128293;New&#128293; </span> **February 2025**. I can finally present the results of my internship: ["On teacher Hacking in Language Model Distillation"](https://arxiv.org/abs/2502.02671).
-- **January 2025**. My first paper as a supervisor, ["Optimizing Backward Policies in GFlowNets via Trajectory Likelihood Maximization"](https://arxiv.org/abs/2410.15474), got accepted to ICLR-2025! Additionally, I got 2 accepted papers on AISTATS-2025.
-- **September 2024**. I am starting my student-researcher internship at Google DeepMind!
-- **January 2023**. The paper on RL/RLHF learning from demonstrations ["Demonstration-Regularized RL"](https://arxiv.org/abs/2310.17303) was accepted at ICLR-2024 and, additionally, the GFlowNet-RL paper  ["Generative Flow Networks as Entropy-Regularized RL"](https://arxiv.org/abs/2310.12934) was honored by an oral presetation at AISTATS-2024! 
-- **September 2023**. I moved to École Polytechnique, France for pursuing PhD degree.
--   **September 2023**. The paper ["Model-free Posterior Sampling via Learning Rate Randomization"](http://arxiv.org/abs/2310.18186) was accepted at NeurIPS-2023!
-- **July 2023** The paper ["Orthogonal Directions Constrained Gradient Method: from non-linear equality constraints to Stiefel manifold"](https://proceedings.mlr.press/v195/schechtman23a.html) was presented at COLT-2023!
--  **April 2023**. The paper ["Fast Rates for Maximum Entropy Exploration"](https://proceedings.mlr.press/v202/tiapkin23a.html) was accepted at ICML-2023!
+- **February 2025** Started my PhD at the University of Edinburgh.
+- **September 2025** My first paper, co-authored with my colleagues from Samsung Research — P. Andreev, N. Babaev, and A. Saginbaev — has been accepted to NeurIPS 2024.
+[[paper](https://arxiv.org/abs/2410.05920)] [[page](https://samsunglabs.github.io/FINALLY-page/)] 
