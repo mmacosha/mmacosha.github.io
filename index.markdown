@@ -8,14 +8,13 @@ layout: default
 
 Hi, I’m Kirill, a Ph.D. student in Informatics at the University of Edinburgh, where I study probabilistic modeling under the supervision of [Nikolay Malkin](https://malkin1729.github.io/). 
 
-I am interested in researching
+Previously, I worked as a research engineer at Samsung Research, focusing on the development of high-performance, GAN-based speech enhancement models.
+I completed my MSc in Applied Mathematics and Computer Science through the “Math of Machine Learning” program jointly offered by HSE University and Skoltech and wrote my Master's thesis under the supervision of [Alexander Korotin](https://akorotin.netlify.app/)
+
+I am interested in researching:
 * Diffusion Models
 * Energy Based models
 * Schrödinger Bridges
-
-
-Previously, I worked as a research engineer at Samsung Research, focusing on the development of high-performance, GAN-based speech enhancement models.
-I completed my MSc in Applied Mathematics and Computer Science through the “Math of Machine Learning” program jointly offered by HSE University and Skoltech and wrote my Master's thesis under the supervision of [Alexander Korotin](https://akorotin.netlify.app/)
 
 Email: K.Tamogashev@sms.ed.ac.uk | [Google Scholar](https://scholar.google.com/citations?user=phcjaXEAAAAJ&hl=en) 
 

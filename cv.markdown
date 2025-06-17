@@ -1,4 +1,4 @@
-## Skills and Knowledge
+## CV
 
 - **Deep Learning:** Neural Signal Processing, NLP, Transformers, Bayesian Methods, VAE, Diffusion Models  
 - **Programming:** Python (strong knowledge of PyTorch), NumPy, Scikit-learn, C++  
@@ -9,12 +9,12 @@
 
 ## Education
 
-**University of Edinburgh** – Edinburgh, UK
+**University of Edinburgh** – Edinburgh, UK 
 *Ph.D. in Informatics*  
 February 2025 – Current
 
-**Skolkovo Institute of Science and Technology & HSE University** – Moscow, Russia  
-*Joint MSc in Math of Machine Learning*  
+**HSE University** – Moscow, Russia  
+*MSc in Applied Mathematics*  
 September 2022 – August 2024  
 
 **HSE University** – Moscow, Russia  
