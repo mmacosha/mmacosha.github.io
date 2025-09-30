@@ -1,7 +1,6 @@
 ## CV
 
-- **Deep Learning:** Neural Signal Processing, NLP, Transformers, Bayesian Methods, VAE, Diffusion Models  
-- **Programming:** Python (strong knowledge of PyTorch), NumPy, Scikit-learn, C++  
+- **Programming:** Python, PyTorch, NumPy, Scikit-learn, C++  
 - **Miscellaneous:** Linux, Shell (Bash/Zsh), Docker, CI/CD, Git
 - **Languages:** Russian (Native), English (Proficient), German (Intermediate), French (Elementary)
 
@@ -32,10 +31,5 @@ June 2023 – January 2025
 **Tinkoff** – Moscow, Russia  
 *ML Engineer*  
 November 2021 – June 2023  
-
-**HSE University** – Moscow, Russia  
-*Teaching Assistant*  
-October 2019 – May 2022  
-- Courses: Probability Theory and Statistics, Calculus, Linear Algebra, Deep Learning, Machine Learning  
 
 ---
