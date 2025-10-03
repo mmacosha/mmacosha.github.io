@@ -27,4 +27,4 @@ My research interests include:
 - **September 2025** My three workshop papers got accepted to the [FPI workshop](https://fpineurips.framer.website/)
 - **February 2025** Started my PhD at the University of Edinburgh.
 - **September 2025** My first paper, co-authored with my colleagues from Samsung Research — P. Andreev, N. Babaev, and A. Saginbaev — has been accepted to NeurIPS 2024.
-[[paper](https://arxiv.org/abs/2410.05920)] [[page](https://samsunglabs.github.io/FINALLY-page/)] 
+[[paper](https://arxiv.org/abs/2410.05920)] [[page](https://mmacosha.github.io/finally-demo/)] 
