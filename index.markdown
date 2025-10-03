@@ -14,7 +14,10 @@ My research interests include:
 * Probabilistic inference 
 * Schrödinger bridges
 
-[GitHub](https://github.com/mmacosha) | [LinkedIn](https://www.linkedin.com/in/ktamogashev/) |  [Email](mailto:K.Tamogashev@sms.ed.ac.uk) | [Google Scholar](https://scholar.google.com/citations?user=phcjaXEAAAAJ&hl=en)
+[GitHub](https://github.com/mmacosha) | 
+[LinkedIn](https://www.linkedin.com/in/ktamogashev/) | 
+[Email](mailto:K.Tamogashev@sms.ed.ac.uk) | 
+[Google Scholar](https://scholar.google.com/citations?user=phcjaXEAAAAJ&hl=en)
 
 
 
