@@ -12,7 +12,7 @@ Ph.D. student at the University of Edinburgh, focusing on diffusion-based genera
 
 ### University of Edinburgh
 *September 2025 - present*
-- Tutor for the courses: [PMR](https://opencourse.inf.ed.ac.uk/pmr/2025) and [AMML](https://opencourse.inf.ed.ac.uk/atml).
+- Tutor for the courses: [PMR](https://opencourse.inf.ed.ac.uk/pmr/2025) and [ATML](https://opencourse.inf.ed.ac.uk/atml).
 
 ### [Samsung Research](https://research.samsung.com/)
 *June 2023 - January 2025*
