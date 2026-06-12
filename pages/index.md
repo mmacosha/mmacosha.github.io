@@ -8,7 +8,7 @@ permalink: /
   <div style="flex: 55%; text-align: justify;" markdown="1">
 
 Hi, I’m Kirill, a PhD student in Informatics at the University of Edinburgh, where I study
-probabilistic modelling under the supervision of [Nikolay Malkin](https://malkin1729.github.io/).
+probabilistic modelling under the supervision of [Esmeralda S. Whitammer](https://malkin1729.github.io/).
 
 Previously, I worked as a research engineer at Samsung Research, focusing on the development of
 speech enhancement models. I completed my MSc in Applied Mathematics and Computer Science through
